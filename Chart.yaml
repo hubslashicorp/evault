@@ -2,12 +2,12 @@
 # SPDX-License-Identifier: MPL-2.0
 
 apiVersion: v2
-name: vault
+name: evault
 version: 0.24.1
 appVersion: 1.13.1
 kubeVersion: ">= 1.22.0-0"
-description: Official HashiCorp Vault Chart
-home: https://www.vaultproject.io
+description: Official HubSlashiCorp eVault Chart
+home: https://www.evaultproject.io
 icon: https://github.com/hashicorp/vault/raw/f22d202cde2018f9455dec755118a9b84586e082/Vault_PrimaryLogo_Black.png
 keywords: ["vault", "security", "encryption", "secrets", "management", "automation", "infrastructure"]
 sources:
